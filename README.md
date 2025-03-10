@@ -1,2 +1,5 @@
 # Finetuning-with-NER
-Fine tuned l3cube/bert model using NER dataset
+
+Model name: l3cube-pune/malayalam-bert
+
+Dataset used: Achuth7Achu/Malayalam_ner_tagged
